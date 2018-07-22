@@ -1,20 +1,24 @@
-<div>
-<h1>Description</h1>
-<p>This module functions returns a lot of lucky games</p>
-</div>
-<div><br><br>
-<h2>Options</h2>
-<ul>
-<li>Dice Roll</li>
-<li>Head&Tail</li>
-<li>Rock&Paper&scissors</li>
-  </ul>
-</div><br><br>
+# Description
+This module functions returns a lot of lucky games.
 
-<div>
-<h3>Simple Usage</h3>
-<p>o = Possibility()</p>
-<p>o.dice_roll() # For Dice Roll</p>
-<p>o.head_tail() # For Head Tail</p>
-<p>o.rock_paper_scissors # for Rock&Paper&Scissors</p>
-  </div>
+## Options
+
+- Dice Roll
+- Head & Tail
+- Rock & Paper & Scissors
+
+## Simple Usage
+
+Instantiate `Possibility` class, rock & roll.
+
+    o = Possibility()
+    o.dice_roll()
+    o.head_tail()
+    o.rock_paper_scissors
+
+## Contributors
+
+  [@beyef3ndi](https://github.com/beyef3ndi)
+  [@sipirsipirmin](https://github.com/sipirsipirmin)
+  [@huseyince](https://github.com/huseyince)
+  [@fatiherikli](https://github.com/fatiherikli)
