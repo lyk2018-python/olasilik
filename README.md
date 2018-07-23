@@ -12,9 +12,9 @@ This module functions returns a lot of lucky games.
 Instantiate `Possibility` class, rock & roll.
 
     o = Possibility()
-    o.dice_roll()
+    o.dice_roll(2)
     o.head_tail()
-    o.rock_paper_scissors
+    o.rock_paper_scissors()
 
 ## Contributors
 
